@@ -1,0 +1,7 @@
+djangorestframework
+markdown
+django-filter
+langchain
+langchain-ollama
+langchain-chroma
+pandas
