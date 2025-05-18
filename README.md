@@ -8,6 +8,10 @@ Mama Agent is a Django-based application that serves as a gateway for two main A
 - **message_app/**: Manages messaging functionality with models, views, and URLs.
 - **ollama_app/**: Provides API endpoints and utility functions for the Ollama service.
 
+## Ollama
+
+To setup [Ollama](https://github.com/ollama/ollama) see here.
+
 ## Getting Started
 
 Follow these steps to set up the project locally:
